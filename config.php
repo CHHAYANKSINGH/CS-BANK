@@ -1,9 +1,9 @@
 <?php
 
-$servername = "fdb28.awardspace.net";
-$username = "3775916_tsf";
-$password = "@#@#@#";
-$dbname = "3775916_tsf";
+$servername = "localhost:3308";
+$username = "root";
+$password = "";
+$dbname = "cs_bank";
 
 $conn = mysqli_connect($servername, $username, $password, $dbname);
 
